@@ -1,0 +1,2489 @@
+
+xflr5 v6.61
+29.03.2024  17:27:49
+
+Launching Analysis
+
+Launching the 3D Panel Analysis....
+EPPLER 
+Type 1 - Fixed speed polar
+
+Wings as thin surfaces
+Using ring vortices - VLM2
+Using Neumann boundary conditions for wings
+
+Density   =       1.225kg/m3
+Viscosity =     1.5e-05m²/s
+
+Reference Area   =        0.54m²
+Reference length =         1.8m
+
+Counted  390 panel elements
+
+
+   Solving the problem...
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= -20.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.030 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point  -20.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha= -20.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.65 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -1.12 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -1.43 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -1.51 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = -1.38 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = -0.66 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = -0.34 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = -0.11 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.03 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.05 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= -19.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.014 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point  -19.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha= -19.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.64 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -1.09 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -1.38 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -1.45 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = -1.31 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = -0.59 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = -0.28 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = -0.05 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.07 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.08 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= -18.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.017 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point  -18.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha= -18.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.62 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -1.05 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -1.33 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -1.40 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = -1.25 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = -0.52 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = -0.21 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 0.01 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.12 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.10 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= -17.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.013 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point  -17.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha= -17.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.60 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -1.02 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -1.29 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -1.34 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = -1.18 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = -0.44 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = -0.14 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 0.07 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.16 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.13 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= -16.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.011 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point  -16.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha= -16.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.58 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.98 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -1.24 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -1.28 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = -1.12 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = -0.37 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = -0.07 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 0.12 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.20 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.15 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= -15.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.013 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point  -15.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha= -15.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.56 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.95 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -1.19 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -1.22 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = -1.05 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = -0.30 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = -0.01 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 0.18 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.25 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.18 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= -14.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.013 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point  -14.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha= -14.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.54 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.91 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -1.14 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -1.16 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = -0.98 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = -0.22 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 0.06 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 0.24 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.29 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.21 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= -13.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.013 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point  -13.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha= -13.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.52 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.87 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -1.08 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -1.09 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = -0.90 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = -0.15 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 0.13 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 0.30 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.34 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.23 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= -12.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.015 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point  -12.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha= -12.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.50 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.84 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -1.03 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -1.03 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = -0.83 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = -0.07 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 0.20 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 0.36 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.38 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.26 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= -11.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.016 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point  -11.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha= -11.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.48 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.80 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -0.98 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -0.96 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = -0.76 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 0.01 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 0.28 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 0.42 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.43 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.28 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= -10.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.017 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point  -10.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha= -10.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.46 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.76 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -0.92 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -0.90 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = -0.68 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 0.08 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 0.35 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 0.48 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.47 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.31 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= -9.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.012 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point   -9.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=  -9.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.43 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.72 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -0.87 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -0.83 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = -0.61 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 0.16 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 0.42 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 0.54 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.51 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.34 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= -8.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.019 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point   -8.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=  -8.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.41 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.68 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -0.81 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -0.76 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = -0.53 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 0.24 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 0.49 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 0.61 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.56 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.36 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= -7.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.015 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point   -7.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=  -7.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.39 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.63 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -0.75 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -0.69 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = -0.46 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 0.32 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 0.56 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 0.67 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.60 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.39 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= -6.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.015 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point   -6.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=  -6.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.36 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.59 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -0.69 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -0.62 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = -0.38 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 0.40 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 0.63 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 0.73 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.65 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.41 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= -5.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.016 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point   -5.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=  -5.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.34 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.55 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -0.64 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -0.55 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = -0.30 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 0.48 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 0.71 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 0.79 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.69 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.44 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= -4.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.015 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point   -4.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=  -4.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.31 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.51 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -0.58 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -0.48 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = -0.22 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 0.55 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 0.78 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 0.85 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.74 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.46 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= -3.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.014 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point   -3.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=  -3.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.29 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.46 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -0.52 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -0.41 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = -0.14 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 0.63 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 0.85 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 0.91 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.78 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.49 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= -2.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.016 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point   -2.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=  -2.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.26 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.42 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -0.46 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -0.34 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = -0.07 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 0.71 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 0.92 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 0.97 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.83 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.51 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= -1.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.018 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point   -1.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=  -1.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.24 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.37 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -0.40 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -0.27 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 0.01 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 0.79 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 0.99 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 1.03 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.87 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.53 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= 0.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.018 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point    0.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=   0.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.21 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.33 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -0.34 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -0.19 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 0.09 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 0.87 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 1.06 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 1.09 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.91 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.56 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= 1.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.015 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point    1.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=   1.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.19 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.29 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -0.28 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -0.12 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 0.17 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 0.95 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 1.13 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 1.15 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 0.95 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.58 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= 2.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.017 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point    2.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=   2.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.16 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.24 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -0.22 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = -0.05 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 0.25 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 1.02 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 1.20 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 1.20 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 1.00 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.60 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= 3.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.015 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point    3.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=   3.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.13 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.20 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -0.15 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = 0.02 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 0.33 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 1.10 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 1.27 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 1.26 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 1.04 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.63 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= 4.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.017 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point    4.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=   4.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.11 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.15 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -0.09 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = 0.09 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 0.41 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 1.17 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 1.34 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 1.32 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 1.08 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.65 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= 5.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.017 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point    5.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=   5.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.08 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.11 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = -0.03 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = 0.17 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 0.48 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 1.25 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 1.41 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 1.37 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 1.12 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.67 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= 6.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.017 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point    6.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=   6.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.05 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.06 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = 0.03 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = 0.24 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 0.56 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 1.32 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 1.47 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 1.43 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 1.16 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.69 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= 7.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.015 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point    7.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=   7.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = -0.03 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = -0.02 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = 0.09 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = 0.31 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 0.64 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 1.40 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 1.54 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 1.48 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 1.20 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.71 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= 8.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.015 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point    8.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=   8.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = 0.00 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = 0.03 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = 0.15 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = 0.38 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 0.72 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 1.47 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 1.60 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 1.54 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 1.23 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.73 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= 9.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.016 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point    9.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=   9.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = 0.03 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = 0.07 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = 0.21 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = 0.45 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 0.79 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 1.54 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 1.67 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 1.59 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 1.27 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.75 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= 10.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.016 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point   10.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=  10.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = 0.05 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = 0.12 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = 0.27 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = 0.52 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 0.87 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 1.61 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 1.73 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 1.64 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 1.31 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.77 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= 11.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.017 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point   11.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=  11.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = 0.08 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = 0.16 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = 0.33 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = 0.59 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 0.94 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 1.68 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 1.79 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 1.69 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 1.34 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.78 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= 12.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.016 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point   12.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=  12.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = 0.11 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = 0.20 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = 0.38 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = 0.66 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 1.01 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 1.75 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 1.85 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 1.74 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 1.38 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.80 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= 13.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.012 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point   13.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=  13.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = 0.13 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = 0.25 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = 0.44 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = 0.72 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 1.09 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 1.81 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 1.91 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 1.79 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 1.41 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.82 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= 14.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.011 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point   14.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=  14.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = 0.16 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = 0.29 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = 0.50 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = 0.79 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 1.16 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 1.88 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 1.97 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 1.83 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 1.44 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.83 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= 15.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.010 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point   15.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=  15.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = 0.18 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = 0.33 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = 0.56 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = 0.86 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 1.23 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 1.94 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 2.02 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 1.88 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 1.47 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.85 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= 16.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.012 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point   16.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=  16.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = 0.21 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = 0.37 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = 0.61 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = 0.92 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 1.30 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 2.00 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 2.08 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 1.92 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 1.50 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.86 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= 17.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.013 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point   17.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=  17.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = 0.23 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = 0.42 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = 0.67 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = 0.98 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 1.36 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 2.06 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 2.13 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 1.96 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 1.53 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.87 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= 18.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.013 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point   18.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=  18.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = 0.26 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = 0.46 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = 0.72 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = 1.05 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 1.43 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 2.12 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 2.18 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 2.00 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 1.56 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.88 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= 19.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.015 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point   19.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=  19.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = 0.28 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = 0.50 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = 0.77 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = 1.11 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 1.49 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 2.18 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 2.23 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 2.04 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 1.59 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.90 could not be interpolated (Clmax = 0.00)
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+      
+    Processing Alpha= 20.0
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Creating source strengths...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 0.016 s
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point   20.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha=  20.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -0.89m, Re = 480000, Cl = 0.30 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.85m, Re = 480000, Cl = 0.54 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.76m, Re = 480000, Cl = 0.83 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.65m, Re = 480000, Cl = 1.17 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.52m, Re = 480000, Cl = 1.56 could not be interpolated (Clmax = 0.00)
+           Span pos =  -0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =  -0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.04m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.10m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.17m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.23m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.34m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.38m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.41m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.44m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.45m, Re = 480000 is outside the flight envelope of polars
+           Span pos =   0.52m, Re = 480000, Cl = 2.23 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.65m, Re = 480000, Cl = 2.28 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.76m, Re = 480000, Cl = 2.08 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.85m, Re = 480000, Cl = 1.62 could not be interpolated (Clmax = 0.00)
+           Span pos =   0.89m, Re = 480000, Cl = 0.91 could not be interpolated (Clmax = 0.00)
+
+
+Panel Analysis completed ... Errors encountered
+
+Analysis ended Fri Mar 29 17:27:50 2024
+Elapsed: 1.423 s

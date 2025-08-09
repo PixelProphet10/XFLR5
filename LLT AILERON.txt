@@ -1,0 +1,101 @@
+
+xflr5 v6.61
+29.03.2024  17:26:04
+Main Wing
+T1-24.0 m/s-LLT
+Launching analysis....
+
+Max iterations     = 500
+Alpha precision    = 0.010000 deg
+Number of stations = 20
+Relaxation factor  = 20.0
+
+
+Launching the LLT Analysis....
+Setting initial linear solution
+  station         Cl           Ai
+Calculating Alpha = -20.00...     ...converged after 144 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =  -20.0 could not be interpolated
+Calculating Alpha = -19.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =  -19.0 could not be interpolated
+Calculating Alpha = -18.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =  -18.0 could not be interpolated
+Calculating Alpha = -17.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =  -17.0 could not be interpolated
+Calculating Alpha = -16.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =  -16.0 could not be interpolated
+Calculating Alpha = -15.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =  -15.0 could not be interpolated
+Calculating Alpha = -14.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =  -14.0 could not be interpolated
+Calculating Alpha = -13.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =  -13.0 could not be interpolated
+Calculating Alpha = -12.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =  -12.0 could not be interpolated
+Calculating Alpha = -11.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =  -11.0 could not be interpolated
+Calculating Alpha = -10.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =  -10.0 could not be interpolated
+Calculating Alpha = -9.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =   -9.0 could not be interpolated
+Calculating Alpha = -8.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =   -8.0 could not be interpolated
+Calculating Alpha = -7.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =   -7.0 could not be interpolated
+Calculating Alpha = -6.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =   -6.0 could not be interpolated
+Calculating Alpha = -5.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =   -5.0 could not be interpolated
+Calculating Alpha = -4.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =   -4.0 could not be interpolated
+Calculating Alpha = -3.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =   -3.0 could not be interpolated
+Calculating Alpha = -2.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =   -2.0 could not be interpolated
+Calculating Alpha = -1.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =   -1.0 could not be interpolated
+Calculating Alpha =  0.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =    0.0 could not be interpolated
+Calculating Alpha =  1.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =    1.0 could not be interpolated
+Calculating Alpha =  2.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =    2.0 could not be interpolated
+Calculating Alpha =  3.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =    3.0 could not be interpolated
+Calculating Alpha =  4.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =    4.0 could not be interpolated
+Calculating Alpha =  5.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =    5.0 could not be interpolated
+Calculating Alpha =  6.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =    6.0 could not be interpolated
+Calculating Alpha =  7.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =    7.0 could not be interpolated
+Calculating Alpha =  8.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =    8.0 could not be interpolated
+Calculating Alpha =  9.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =    9.0 could not be interpolated
+Calculating Alpha = 10.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =   10.0 could not be interpolated
+Calculating Alpha = 11.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =   11.0 could not be interpolated
+Calculating Alpha = 12.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =   12.0 could not be interpolated
+Calculating Alpha = 13.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =   13.0 could not be interpolated
+Calculating Alpha = 14.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =   14.0 could not be interpolated
+Calculating Alpha = 15.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =   15.0 could not be interpolated
+Calculating Alpha = 16.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =   16.0 could not be interpolated
+Calculating Alpha = 17.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =   17.0 could not be interpolated
+Calculating Alpha = 18.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =   18.0 could not be interpolated
+Calculating Alpha = 19.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =   19.0 could not be interpolated
+Calculating Alpha = 20.00...     ...converged after 0 iterations
+       Span pos =      0.00 ,  Re = 480000 ,  A+Ai+Twist =   20.0 could not be interpolated
+
+_________
+Analysis completed ...some points are outside the flight envelope
